@@ -1,0 +1,2 @@
+the OUT keyword is similar to the REF keyword, only REF, in turn, does not oblige the programmer to assign any value in the method
+itself. my program clearly shows an example of how the OUT keyword works :)
